@@ -4,14 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="564706a0-c32b-489c-843b-8448e259e262" name="Changes" comment="establecer estructura">
-      <change afterPath="$PROJECT_DIR$/Himno/Himnonacional" afterDir="false" />
+    <list default="true" id="564706a0-c32b-489c-843b-8448e259e262" name="Changes" comment="Agregar Himno">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ArandanoUS"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d6bb8099-ac2b-43b5-8219-ba6ed172d27b" />
+        <option name="url" value="https://github.com/ArandanoUS/Modulo-2.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -26,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -53,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707261769436</updated>
-      <workItem from="1707261773887" duration="998000" />
+      <workItem from="1707261773887" duration="1767000" />
     </task>
     <task id="LOCAL-00001" summary="establecer estructura">
       <option name="closed" value="true" />
@@ -63,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707262376899</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="establecer estructura">
+      <option name="closed" value="true" />
+      <created>1707263014195</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707263014195</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,8 +102,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="establecer estructura" />
-    <option name="LAST_COMMIT_MESSAGE" value="establecer estructura" />
+    <MESSAGE value="Agregar Himno" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregar Himno" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
